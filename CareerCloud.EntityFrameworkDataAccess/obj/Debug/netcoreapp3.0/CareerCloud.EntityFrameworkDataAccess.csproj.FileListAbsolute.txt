@@ -1,0 +1,13 @@
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.deps.json
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.pdb
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.0\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb

@@ -1,0 +1,8 @@
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.deps.json
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\bin\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.AssemblyInfoInputs.cache
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.AssemblyInfo.cs
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.dll
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.pdb
+C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.Pocos\obj\Debug\netcoreapp3.0\CareerCloud.Pocos.csprojAssemblyReference.cache
