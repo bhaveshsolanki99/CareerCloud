@@ -1,12 +1,13 @@
 ﻿using CareerCloud.DataAccessLayer;
 using CareerCloud.Pocos;
 using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.Text;
 
 namespace CareerCloud.BusinessLogicLayer
 {
-    class CompanyJobLogic : BaseLogic<CompanyJobPoco>
+    public class CompanyJobLogic : BaseLogic<CompanyJobPoco>
     {
         public CompanyJobLogic(IDataRepository<CompanyJobPoco> repository) : base(repository)
         {

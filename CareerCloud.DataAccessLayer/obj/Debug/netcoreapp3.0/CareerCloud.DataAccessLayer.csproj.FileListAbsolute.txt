@@ -1,7 +1,6 @@
 C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.deps.json
 C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll
 C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.DataAccessLayer\bin\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.pdb
-C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.csprojAssemblyReference.cache
 C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.AssemblyInfoInputs.cache
 C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.AssemblyInfo.cs
 C:\Users\Shikha Jain\Desktop\Bhavesh\NET_ASP_C#\Assignment 1\CareerCloud\CareerCloud.DataAccessLayer\obj\Debug\netcoreapp3.0\CareerCloud.DataAccessLayer.dll

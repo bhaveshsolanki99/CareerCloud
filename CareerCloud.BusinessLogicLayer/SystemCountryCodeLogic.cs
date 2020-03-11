@@ -1,15 +1,18 @@
 ﻿using CareerCloud.DataAccessLayer;
 using CareerCloud.Pocos;
 using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.Text;
 
 namespace CareerCloud.BusinessLogicLayer
 {
-    public class SystemCountryCodeLogic //: BaseLogic<SystemCountryCodePoco>
+    public class SystemCountryCodeLogic : SystemCountryCodePoco //: BaseLogic<SystemCountryCodePoco>
     {
+        protected IDataRepository<SystemCountryCodePoco> _repository;
         public SystemCountryCodeLogic(IDataRepository<SystemCountryCodePoco> repository) //: base(repository)
         {
+            _repository = repository;
         }
 
         protected void Verify(SystemCountryCodePoco[] pocos)
@@ -20,7 +23,8 @@ namespace CareerCloud.BusinessLogicLayer
             {
                 if (string.IsNullOrEmpty(poco.Code))
                 {
-                    exceptions.Add(new ValidationException(900, "Code field is required."));
+                    exceptions.Add(new ValidationException(900,
+                        "Code field is required."));
                 }
                 if (string.IsNullOrEmpty(poco.Name))
                 {
@@ -53,19 +57,19 @@ namespace CareerCloud.BusinessLogicLayer
            // _repository.Update(pocos);
         }
 
-        public void Get(Guid id)
+        public SystemCountryCodePoco Get(string id)
         {
-            
+            return _repository.GetSingle(c => c.Code == id);
         }
 
-        public void GetAll()
+        public List<SystemCountryCodePoco> GetAll()
         {
-            
+            return _repository.GetAll().ToList(); ;
         }
 
-        public void Delete(SystemCountryCodeLogic[] pocos)
+        public void Delete(SystemCountryCodePoco[] pocos)
         {
-            
+            _repository.Remove();
         }
     }
 }

@@ -17,7 +17,7 @@ namespace CareerCloud.Pocos
         public Guid Applicant { get; set; }
         public string Major { get; set; }
         [Column("Certificate_Diploma")]
-        public string? CertificateDiploma { get; set; }
+        public string CertificateDiploma { get; set; }
         [Column("Start_Date")]
         public DateTime? StartDate { get; set; }
         [Column("Completion_Date")]
@@ -57,17 +57,17 @@ namespace CareerCloud.Pocos
         public decimal? CurrentSalary { get; set; }
         [Column("Current_Rate")]
         public decimal? CurrentRate { get; set; }
-        public String? Currency { get; set; }
+        public String Currency { get; set; }
         [Column("Country_Code")]
-        public String? Country { get; set; }
+        public String Country { get; set; }
         [Column("State_Province_Code")]
-        public String? Province { get; set; }
+        public String Province { get; set; }
         [Column("Street_Address")]
-        public String? Street { get; set; }
+        public String Street { get; set; }
         [Column("City_Town")]
-        public String? City { get; set; }
+        public String City { get; set; }
         [Column("Zip_Postal_Code")]
-        public String? PostalCode { get; set; }
+        public String PostalCode { get; set; }
         [Column("Time_Stamp")]
         public Byte[] TimeStamp { get; set; }
 
@@ -209,7 +209,7 @@ namespace CareerCloud.Pocos
         [Column("Is_Company_Hidden")]
         public Boolean IsCompanyHidden { get; set; }
         [Column("Time_Stamp")]
-        public Byte[]? TimeStamp { get; set; }
+        public Byte[] TimeStamp { get; set; }
         public virtual CompanyProfilePoco CompanyProfile_CompanyJob { get; set; }
         public virtual ICollection<ApplicantJobApplicationPoco> ApplicantJobApplication_CompanyJobs { get; set; }
         public virtual ICollection<CompanyJobEducationPoco> CompanyJobEducations_CompanyJob { get; set; }
@@ -225,11 +225,11 @@ namespace CareerCloud.Pocos
         public Guid Id { get; set; }
         public Guid Job { get; set; }
         [Column("Job_Name")]
-        public String? JobName { get; set; }
+        public String JobName { get; set; }
         [Column("Job_Descriptions")]
-        public String? JobDescriptions { get; set; }
+        public String JobDescriptions { get; set; }
         [Column("Time_Stamp")]
-        public Byte[]? TimeStamp { get; set; }
+        public Byte[] TimeStamp { get; set; }
         public virtual CompanyJobPoco CompanyJob_CompanyJobDescription { get; set; }
     }
 
@@ -243,13 +243,13 @@ namespace CareerCloud.Pocos
         [Column("Country_Code")]
         public String CountryCode { get; set; }
         [Column("State_Province_Code")]
-        public String? Province { get; set; }
+        public String Province { get; set; }
         [Column("Street_Address")]
-        public String? Street { get; set; }
+        public String Street { get; set; }
         [Column("City_Town")]
-        public String? City { get; set; }
+        public String City { get; set; }
         [Column("Zip_Postal_Code")]
-        public String? PostalCode { get; set; }
+        public String PostalCode { get; set; }
         [Column("Time_Stamp")]
         public Byte[] TimeStamp { get; set; }
         public virtual CompanyProfilePoco CompanyProfile_CompanyLocation { get; set; }
@@ -264,15 +264,15 @@ namespace CareerCloud.Pocos
         [Column("Registration_Date")]
         public DateTime RegistrationDate { get; set; }
         [Column("Company_Website")]
-        public String? CompanyWebsite { get; set; }
+        public String CompanyWebsite { get; set; }
         [Column("Contact_Phone")]
         public String ContactPhone { get; set; }
         [Column("Contact_Name")]
-        public String? ContactName { get; set; }
+        public String ContactName { get; set; }
         [Column("Company_Logo")]
-        public Byte[]? CompanyLogo { get; set; }
+        public Byte[] CompanyLogo { get; set; }
         [Column("Time_Stamp")]
-        public Byte[]? TimeStamp { get; set; }
+        public Byte[] TimeStamp { get; set; }
         public virtual ICollection<CompanyDescriptionPoco> CompanyDescriptions_CompanyProfile { get; set; }
         public virtual ICollection<CompanyJobPoco> CompanyJobs_CompanyProfile { get; set; }
         public virtual ICollection<CompanyLocationPoco> CompanyProfiles_CompanyLocation { get; set; }
@@ -299,15 +299,15 @@ namespace CareerCloud.Pocos
         [Column("Email_Address")]
         public String EmailAddress { get; set; }
         [Column("Phone_Number")]
-        public String? PhoneNumber { get; set; }
+        public String PhoneNumber { get; set; }
         [Column("Full_Name")]
-        public String? FullName { get; set; }
+        public String FullName { get; set; }
         [Column("Force_Change_Password")]
         public Boolean ForceChangePassword { get; set; }
         [Column("Prefferred_Language")]
-        public String? PrefferredLanguage { get; set; }
+        public String PrefferredLanguage { get; set; }
         [Column("Time_Stamp")]
-        public Byte[]? TimeStamp { get; set; }
+        public Byte[] TimeStamp { get; set; }
         public virtual ICollection<ApplicantProfilePoco>  ApplicantProfiles_SecurityLogin { get; set; }
         public virtual ICollection<SecurityLoginsLogPoco> SecurityLoginsLogs_SecurityLogin { get; set; }
         public virtual ICollection<SecurityLoginsRolePoco> SecurityLoginsRoles_SecurityLogin { get; set; }
@@ -338,7 +338,7 @@ namespace CareerCloud.Pocos
         public Guid Login { get; set; }
         public Guid Role { get; set; }
         [Column("Time_Stamp")]
-        public Byte[]? TimeStamp { get; set; }
+        public Byte[] TimeStamp { get; set; }
         public virtual SecurityLoginPoco SecurityLogin_SecurityLoginsRole { get; set; }
         public virtual SecurityRolePoco SecurityRole_SecurityLoginsRole { get; set; }
     }
